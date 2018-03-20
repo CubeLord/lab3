@@ -11,3 +11,5 @@ Failed to Scan JTAG Chain
 	at com.xilinx.sdk.targetmanager.internal.TM.disconnectTarget(Unknown Source)
 
 10:08:03.608 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:10:20.927 ERROR - Port COM1 is already in use. 
+10:11:17.581 ERROR - Port COM1 is already in use. 
