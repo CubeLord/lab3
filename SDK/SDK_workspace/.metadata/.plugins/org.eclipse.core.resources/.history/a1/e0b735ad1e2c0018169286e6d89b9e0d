@@ -39,7 +39,7 @@ int main()
 {
  unsigned int DataRead;
  init_platform();
- print("Hello World\n\r");
+ print("AAAHello World\n\r");
 
 #if 0
  while(1){

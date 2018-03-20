@@ -41,11 +41,5 @@ int main()
  init_platform();
  print("Hello World\n\r");
 
-#if 0
- while(1){
-	 DataRead = XIo_In32(XPAR_DIP_SWITCHES_BASEADDR);
-	 xil_printf("\n\rDataRead = %x", DataRead);
- }
-#endif
  return 0;
 }
