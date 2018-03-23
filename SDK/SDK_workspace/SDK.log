@@ -13,3 +13,19 @@ Failed to Scan JTAG Chain
 10:08:03.608 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
 10:10:20.927 ERROR - Port COM1 is already in use. 
 10:11:17.581 ERROR - Port COM1 is already in use. 
+10:33:39.310 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+10:05:38.624 INFO  - Project lab3_hw_platform's source hardware specification located at D:\Ra162-2015\lab3\SDK\SDK_Export\hw\system.xml is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated. 
+10:06:40.009 INFO  - Copied contents of D:\Ra162-2015\lab3\SDK\SDK_Export\hw\system.xml into \lab3_hw_platform\system.xml. 
+10:06:40.024 INFO  - Copied contents of D:\Ra162-2015\lab3\SDK\SDK_Export\hw\system.bit into \lab3_hw_platform\system.bit. 
+10:06:40.024 INFO  - Copied contents of D:\Ra162-2015\lab3\SDK\SDK_Export\hw\system_bd.bmm into \lab3_hw_platform\system_bd.bmm. 
+10:06:40.336 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+10:06:41.865 INFO  - Updating MSS for Board Support Package Project: hello_world_bsp.
+		 The following driver assignments were removed:
+			Peripheral Instance: leds, driver: gpio_v3_01_a.
+		 The following new driver assignments were made:
+			Peripheral Instance: my_peripheral_0, driver: generic_v1_00_a.
+ 
+10:06:43.051 INFO  - Updating hardware inferred compiler options for hello_world. 
+10:06:43.066 INFO  - Clearing existing target manager status. 
+10:28:26.193 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

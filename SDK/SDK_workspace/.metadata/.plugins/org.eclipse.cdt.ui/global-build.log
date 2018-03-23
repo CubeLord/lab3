@@ -246,3 +246,6 @@ ELF file	: hello_world.elf
 elfcheck passed.
 'Finished building: hello_world.elf.elfcheck'
 ' '
+10:06:40 **** Auto Build of project hello_world_bsp ****
+make -k all 
+'Finished building libraries'
